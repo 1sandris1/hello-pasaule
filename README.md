@@ -1,0 +1,2 @@
+# hello-pasaule
+tikai paraugs
